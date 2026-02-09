@@ -3,6 +3,10 @@ Practicing Structures
 
 Goal: Create a business card with structures for different companies. 
 
+Recording: https://github.com/user-attachments/assets/03b92ccc-b589-45c6-acb2-84a25a70727b
+
+
+
 Scenario: You are hired as a software developer to create business card for various differnt companies! However there is a customer that is wanting to compare different prices offered by the company. Make it so that the customer can check all the prices from the companies and see which one is perfect for this to purchase! 
 
 **Create your own main.cpp**
